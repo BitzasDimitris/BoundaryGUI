@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\point.o
+./debug\glview.o
+./debug\problem.o
+./debug\pointinput.o
+./debug\moc_mainwindow.o
+./debug\moc_glview.o
+./debug\moc_problem.o
+./debug\moc_pointinput.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\point.o
+./release\glview.o
+./release\problem.o
+./release\pointinput.o
+./release\moc_mainwindow.o
+./release\moc_glview.o
+./release\moc_problem.o
+./release\moc_pointinput.o
+);
